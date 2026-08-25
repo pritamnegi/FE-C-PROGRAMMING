@@ -1,3 +1,8 @@
+/*
+Sum of Numbers Until User Enters Zero 
+The program keeps adding user inputs together until the user passes 0 to signal they are finished.
+*/
+
 #include <stdio.h>
 
 int main() {
